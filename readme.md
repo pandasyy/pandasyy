@@ -1,50 +1,61 @@
-# 👋 Yo, I'm Arslan  
+# 👋 Yo, I'm Pandas  
 
-**💻 DEV | 📈 TRADER | 🎮 GAMER**  
+**💻 DEV | 🎮 GAMER**  
 
-Welcome to my GitHub! I’m the guy who codes systems, trades markets, and games like it’s a full-time grind.  
-Always building. Always evolving. Always winning.  
+Welcome to my GitHub!  
+I’m a gamer who loves code and a developer who loves building.  
+Always learning. Always coding. Always leveling up.  
 
-![Coding Transparent](https://cdn.pixabay.com/animation/2023/03/27/10/51/10-51-44-979_512.gif)  
+![Coding Transparent](https://cdn.pixabay.com/animation/2023/03/27/10/51/10-51-44-979_512.gif)
 
 ---
 
 ## 🚀 About Me  
 
-* 🧠 **Profession:** Developer & Trader  
-* 💡 **Skills:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-* 🎮 **Passionate About:** Gaming, tech, and creative coding  
-* ⚡ **Fun Fact:** I can debug code and clutch in Minecraft in the same hour  
+* 🧠 **Role:** Gamer & Developer  
+* 💡 **Languages & Skills:**  
+  ![Python](https://img.shields.io/badge/Python-Mastery-3776AB?logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-Basic-00599C?logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-Basic-00599C?logo=c%2B%2B&logoColor=white)
+
+* 🎮 **Passionate About:**  
+  Gaming, software development, problem-solving, and learning new tech  
+
+* ⚡ **Fun Fact:**  
+  I can debug Python code and grind games in the same session  
+
+---
+
+## 🛠️ What I Do  
+
+- 🐍 Build tools, scripts, and projects in **Python**  
+- ⚙️ Learn system-level concepts using **C & C++**  
+- 🎮 Explore game-related development ideas  
+- 📈 Improve logic, performance, and clean code  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-arslan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not-arslan&layout=compact&theme=tokyonight&hide_border=true)  
+![Pandas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandasyy&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasyy&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🎮 Gamer Links  
+## 🎯 Goals  
 
-* 🧱 **Minecraft:** [NotArslan](https://namemc.com/NotArslan)  
-* 👻 **Snapchat:** [ardlan_604](https://www.snapchat.com/add/ardlan_604)  
-* 📸 **Instagram:** [@arsslanz_](https://www.instagram.com/arsslanz_/)  
-* 🐦 **X (Twitter):** [@mearslan_0](https://x.com/mearslan_0)  
-* 🔗 **guns.lol:** [arsslanz_](https://guns.lol/arsslanz_)  
-
----
-
-## 🌐 Connect with Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-not--arslan-181717?logo=github)](https://github.com/not-arslan)
-[![Instagram](https://img.shields.io/badge/Instagram-@arsslanz_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/arsslanz_/)  
+- Master Python even further  
+- Get stronger in **C & C++**  
+- Build bigger and smarter projects  
+- Combine gaming creativity with development  
 
 ---
 
-> 🧠 *“Code. Trade. Dominate. Repeat.”*  
-> 💬 Always building something new — stay tuned.  
+## 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-pandasyy-181717?logo=github)](https://github.com/pandasyy)
+
+---
+
+> 🎮 *“Code hard. Play harder.”*  
+> 🚀 Grinding both games and code — stay tuned.
