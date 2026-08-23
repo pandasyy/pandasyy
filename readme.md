@@ -1,61 +1,31 @@
-# 👋 Yo, I'm Pandas  
+# Hey, I'm Pandas 👋
 
-**💻 DEV | 🎮 GAMER**  
+🎓 **College Student** | 💻 **Developer in Progress**
 
-Welcome to my GitHub!  
-I’m a gamer who loves code and a developer who loves building.  
-Always learning. Always coding. Always leveling up.  
+I'm currently a college student who loves coding and building things.
 
-![Coding Transparent](https://cdn.pixabay.com/animation/2023/03/27/10/51/10-51-44-979_512.gif)
+### 🚀 Currently Learning
 
----
+- 🟦 C
+- 🟪 C++
+- 🐧 Linux & Open Source
+- 🔧 Git & GitHub
 
-## 🚀 About Me  
+### 💻 What I Do
 
-* 🧠 **Role:** Gamer & Developer  
-* 💡 **Languages & Skills:**  
-  ![Python](https://img.shields.io/badge/Python-Mastery-3776AB?logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-Basic-00599C?logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-Basic-00599C?logo=c%2B%2B&logoColor=white)
+- Build small projects to improve my programming skills
+- Experiment with different technologies
+- Learn by building and breaking things
+- Explore open-source projects
 
-* 🎮 **Passionate About:**  
-  Gaming, software development, problem-solving, and learning new tech  
+### 📚 My Goal
 
-* ⚡ **Fun Fact:**  
-  I can debug Python code and grind games in the same session  
+To become a strong software developer by consistently learning, coding, and building real-world projects.
 
----
+### 📊 GitHub
 
-## 🛠️ What I Do  
-
-- 🐍 Build tools, scripts, and projects in **Python**  
-- ⚙️ Learn system-level concepts using **C & C++**  
-- 🎮 Explore game-related development ideas  
-- 📈 Improve logic, performance, and clean code  
+I use GitHub to document my learning journey, share my projects, and contribute to open source.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Pandas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandasyy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasyy&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 Goals  
-
-- Master Python even further  
-- Get stronger in **C & C++**  
-- Build bigger and smarter projects  
-- Combine gaming creativity with development  
-
----
-
-## 🌐 Connect With Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-pandasyy-181717?logo=github)](https://github.com/pandasyy)
-
----
-
-> 🎮 *“Code hard. Play harder.”*  
-> 🚀 Grinding both games and code — stay tuned.
+⭐ **Learning. Building. Improving.**
