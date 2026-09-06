@@ -1,4 +1,4 @@
-# Hey, I'm Pandas 👋
+# Hey, I'm Enough 👋
 
 🎓 **College Student** | 💻 **Developer in Progress**
 
